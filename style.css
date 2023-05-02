@@ -1,0 +1,39 @@
+h1 {
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 500px;
+    background-color: aquamarine;
+}
+
+.container_top {
+    text-align: center;
+}
+
+.input_field {
+    width: 300px;
+}
+
+.input_btn {
+
+}
+
+.items_container {
+    background-color: violet;
+    padding: 20px;
+}
+
+.item {
+    margin-top: 15px;
+    border: 1px solid black;
+    background-color:bisque;
+    display: flex;
+    height: 40px;
+    vertical-align:text-bottom
+}
+
+.delete_btn {
+    display: inline-block
+}
