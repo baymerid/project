@@ -5,7 +5,7 @@ h1 {
 .container {
     margin: 0 auto;
     width: 500px;
-    background-color: aquamarine;
+    background-color: rgb(179, 183, 181);
 }
 
 .container_top {
@@ -31,9 +31,8 @@ h1 {
     background-color:bisque;
     display: flex;
     height: 40px;
-    vertical-align:text-bottom
 }
 
 .delete_btn {
-    display: inline-block
+    
 }
